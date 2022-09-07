@@ -1,7 +1,7 @@
 /*
 * Uno Pasadhika
-* C++ Programming DC
 * Guessing Game - Try to guess a number that the computer randomly generates
+* 9/7/2022 
 */
 
 // No global variables 
